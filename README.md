@@ -6,3 +6,7 @@ Accordion menus are often used to organize large amounts of content in a compact
 Accordion menus can be designed in a variety of ways, but typically consist of a series of headers or buttons, each associated with a block of content. When the user clicks on a header or button, the associated content is revealed or hidden, typically with a smooth animation to provide a visually pleasing transition.
 
 Overall, the accordion is a useful and flexible user interface element that can help to organize and present content in a way that is easy to use and visually appealing.
+
+
+
+![Screenshot 2023-05-04 003513](https://user-images.githubusercontent.com/89717401/236206224-556df1f9-4580-45c6-bb8c-af98573e3d0a.png)
